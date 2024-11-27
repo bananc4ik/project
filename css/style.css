@@ -1,12 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 header {
-    width: 1920px;
+
     height: 751px;
     gap: 0px;
     opacity: 0px;
-    background-color: #262625;
-    backdrop-filter: blur(150px)
+    background-image: url("../images/background.svg");
+    background-repeat: no-repeat;
+
 
 }
 
@@ -14,7 +15,6 @@ header {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    width: 1440px;
     height: 95px;
     left: 240px;
     gap: 0px;
@@ -25,12 +25,8 @@ header {
 
 .header_group1 {
     display: flex;
-    width: 495px;
+
     height: 35px;
-    top: 30px;
-    left: 40px;
-    gap: 0px;
-    opacity: 0px;
     align-items: center;
 
 
@@ -42,31 +38,16 @@ header {
 
 .header_box_button {
     display: flex;
-    position: relative;
     width: 40px;
     height: 40px;
-    left: 32px;
-    gap: 0px;
-    opacity: 0px;
     align-items: center;
     justify-content: center;
     border: 1px solid gray;
-
+    margin-left: 32px;
 }
 
 .header_box_button img {
     margin: 10px;
-}
-
-.header_group2 {
-    display: flex;
-    top: 28px;
-    left: 1360px;
-    gap: 0px;
-    opacity: 0px;
-    align-items: center;
-    color: #939393;
-
 }
 
 .header_box_text {
@@ -80,15 +61,23 @@ header {
     margin-left: 26px;
     color: #939393;
 }
-.header_box2{
+
+.header_group2 {
+    display: flex;
+    align-items: center;
+    color: #939393;
+
+}
+
+
+
+.header_box2 {
     display: flex;
 }
-.header_box2_text{
-    position: relative;
+
+.header_box2_text {
     width: 592px;
     height: 128px;
-    top: 135px;
-    left: 360px;
     gap: 0px;
     opacity: 0px;
     font-family: Orenburg;
@@ -99,4 +88,3 @@ header {
     text-decoration-skip-ink: none;
     color: #FFFFFF;
 }
-
