@@ -80,3 +80,23 @@ header {
     margin-left: 26px;
     color: #939393;
 }
+.header_box2{
+    display: flex;
+}
+.header_box2_text{
+    position: relative;
+    width: 592px;
+    height: 128px;
+    top: 135px;
+    left: 360px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Orenburg;
+    font-size: 60px;
+    line-height: 64px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #FFFFFF;
+}
+
