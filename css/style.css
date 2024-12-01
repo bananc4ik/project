@@ -32,6 +32,20 @@ header{
     text-decoration-skip-ink: none;
     color: #939393;
     
+}
 
+.phone{
+    display: flex;
+    align-items: center;
+    height: 21px;
+    margin-top: 37px;
+}
+.header_box2_text{
+    font-family: "PT Sans", serif;
+    font-size: 16px;
+    font-weight: 400;
+    color:#999999;
+    margin: 0px;
+    
 
 }
