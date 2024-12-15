@@ -1,14 +1,15 @@
-.header_list_elem_home{
+
+
+.header_list_elem_home {
     margin-right: 64px;
     font-family: "Montserrat", sans-serif;
-    font-style: normal;
-    font-weight: 500;
     font-size: 14px;
-    line-height: 120%;
     color: black;
+    font-weight: 700;
 
 }
-.header_list_elem{
+
+.header_list_elem {
     margin-right: 64px;
     font-family: "Montserrat", sans-serif;
     font-style: normal;
@@ -17,18 +18,30 @@
     line-height: 120%;
     color: rgba(25, 24, 37, 0.5);
 
+
 }
 
-.good_button{
+.header_list {
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+
+.good_button {
     font-family: "Montserrat", sans-serif;
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
-    line-height: 120%;
     color: #222831;
+    background: white;
+    border-color: white;
+    border-style: none;
+    margin-left: 185.33px;
+
 }
 
-.bad_button{
+.bad_button {
     display: flex;
     flex-direction: row;
     width: 115px;
@@ -38,9 +51,9 @@
     background: #5D50C6;
     border-radius: 100px;
     color: white;
+    border-color: #5D50C6;
+    border-style: none;
+    margin-left: 32px;
 }
-
-
-
 
 
