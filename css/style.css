@@ -1,7 +1,8 @@
-
+.header_row {
+    padding-top: 36px;
+}
 
 .header_list_elem_home {
-    margin-right: 64px;
     font-family: "Montserrat", sans-serif;
     font-size: 14px;
     color: black;
@@ -10,7 +11,7 @@
 }
 
 .header_list_elem {
-    margin-right: 64px;
+
     font-family: "Montserrat", sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -28,6 +29,7 @@
 }
 
 
+
 .good_button {
     font-family: "Montserrat", sans-serif;
     font-style: normal;
@@ -37,7 +39,7 @@
     background: white;
     border-color: white;
     border-style: none;
-    margin-left: 185.33px;
+
 
 }
 
@@ -53,7 +55,7 @@
     color: white;
     border-color: #5D50C6;
     border-style: none;
-    margin-left: 32px;
+
 }
 
 
