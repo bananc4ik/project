@@ -1,5 +1,7 @@
+
 .header_row {
     padding-top: 36px;
+
 }
 
 .header_list_elem_home {
@@ -57,11 +59,32 @@
     border-style: none;
 
 }
-
-
+.main__content_box1_text_and_button{
+    padding-left: 128px;
+}
+.main__content_box1_text_and_button__logo{
+    padding: 168.5px 0px 43px 0px;
+}
+.main__content_box1_text_and_button_name{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    color: #000000;
+    padding: 0px 0px 43px 0px;
+}
 .main__content_box1_text_and_button_name span{
     color:#F85E9F;
 
+}
+.main__content_box1_text_and_button_description{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    color: rgba(25, 24, 37, 0.5);
+}
+
+.main__content_box1_image{
+    padding: 45.65px 128px 0px 0px;
 }
 
 
