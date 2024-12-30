@@ -46,11 +46,7 @@
 }
 
 .bad_button {
-    display: flex;
-    flex-direction: row;
     width: 115px;
-    align-items: center;
-    justify-content: center;
     height: 49px;
     background: #5D50C6;
     border-radius: 100px;
@@ -86,28 +82,25 @@
     padding: 45.65px 0px 0px 0px;
 }
 
+.main__content_box1_text_and_button_button_box button {
+    height: 56px;
+}
+
 .main__content_box1_text_and_button_button_box_button1{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    box-sizing: border-box;
-    gap: 8px;
-    height: 49px;
+
     background: #5D50C6;
     border-radius: 100px;
     color: white;
+    text-align: center;
 
 }
 
 
 
 .main__content_box1_text_and_button_button_box_button2{
-    box-sizing: border-box;
-    gap: 8px;
-    height: 56px;
     background: #ffffff00;
     border-radius: 100px;
-
+    text-align: center;
     
 }
 
