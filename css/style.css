@@ -59,9 +59,7 @@
     border-style: none;
 
 }
-.main__content_box1_text_and_button{
-    padding-left: 128px;
-}
+
 .main__content_box1_text_and_button__logo{
     padding: 168.5px 0px 43px 0px;
 }
@@ -81,11 +79,39 @@
     font-style: normal;
     font-weight: 400;
     color: rgba(25, 24, 37, 0.5);
+    
 }
 
 .main__content_box1_image{
-    padding: 45.65px 128px 0px 0px;
+    padding: 45.65px 0px 0px 0px;
 }
+
+.main__content_box1_text_and_button_button_box_button1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    gap: 8px;
+    height: 49px;
+    background: #5D50C6;
+    border-radius: 100px;
+    color: white;
+
+}
+
+
+
+.main__content_box1_text_and_button_button_box_button2{
+    box-sizing: border-box;
+    gap: 8px;
+    height: 56px;
+    background: #ffffff00;
+    border-radius: 100px;
+
+    
+}
+
+
 
 
 
