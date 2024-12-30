@@ -55,7 +55,9 @@
     border-style: none;
 
 }
-
+.main__content_box1{
+    padding: 36.5px 0px 0px 0px;
+}
 .main__content_box1_text_and_button__logo{
     padding: 168.5px 0px 43px 0px;
 }
@@ -85,7 +87,9 @@
 .main__content_box1_text_and_button_button_box button {
     height: 56px;
 }
-
+.main__content_box1_text_and_button_button_box{
+    padding: 43px 0px 0px 0px;
+}
 .main__content_box1_text_and_button_button_box_button1{
 
     background: #5D50C6;
