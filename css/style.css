@@ -59,7 +59,7 @@
     padding: 36.5px 0px 0px 0px;
 }
 .main__content_box1_text_and_button__logo{
-    padding: 168.5px 0px 43px 0px;
+    padding: 64px 0px 43px 0px;
 }
 .main__content_box1_text_and_button_name{
     font-family: 'Circular Std';
@@ -96,6 +96,8 @@
     border-radius: 100px;
     color: white;
     text-align: center;
+    border-style: none;
+    margin-bottom: 51.5px;
 
 }
 
@@ -105,10 +107,16 @@
     background: #ffffff00;
     border-radius: 100px;
     text-align: center;
+    border-style: none;
+    border: 1px solid rgba(128, 128, 128, 0.288);
+
+
     
 }
 
 
-
-
+.sponsors{
+    padding: 64px 0px;
+    gap: 32px;
+}
 
