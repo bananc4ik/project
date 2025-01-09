@@ -242,20 +242,10 @@
 
 }
 
-.main__content_box3_buttons{
 
-}
-.destinations{
-    padding: 0px;
-    gap: 32px;
-
-
-
-}
 .destinations_card{
-    box-shadow: 0px 513px 205px rgba(0, 0, 0, 0.01), 0px 288px 173px rgba(0, 0, 0, 0.03), 0px 128px 128px rgba(0, 0, 0, 0.04), 0px 32px 71px rgba(0, 0, 0, 0.05), 0px 0px 0px rgba(0, 0, 0, 0.05);
     border-radius: 0px 0px 32px 32px;
-    padding: 0px;
+    padding: 8px;
 }
 
 .destinations_card_description{
@@ -264,7 +254,7 @@
     background: #FFFFFF;
     box-shadow: 0px 513px 205px rgba(0, 0, 0, 0.01), 0px 288px 173px rgba(0, 0, 0, 0.03), 0px 128px 128px rgba(0, 0, 0, 0.04), 0px 32px 71px rgba(0, 0, 0, 0.05), 0px 0px 0px rgba(0, 0, 0, 0.05);
     border-radius: 0px 0px 32px 32px;
-
+    height: 225px;
 
 }
 
@@ -297,3 +287,4 @@
 
 
 }
+
