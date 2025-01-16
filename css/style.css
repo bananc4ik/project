@@ -286,5 +286,109 @@
     color: rgba(25, 24, 37, 0.75);
 
 
+
+
+}
+.main__content_box4{
+    padding: 64px 0px;
+
+
+
+
+
 }
 
+.main__content_box4_image{
+
+}
+.Travel_Point{
+
+
+
+}
+.Travel_Point_cards{
+    padding: 0px;
+    gap: 32px;
+
+}
+
+
+
+
+.Travel_Point_title1{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 120%;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #F85E9F;
+    padding-bottom: 16px;
+    padding-top: 64px;
+
+
+}
+.Travel_Point_title2{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 120%;
+    color: #191825;
+    padding-bottom: 32px;
+    padding-top: 16px;
+
+}
+
+.Travel_Point_description{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    color: rgba(25, 24, 37, 0.5);
+    padding-bottom: 64px;
+
+}
+.Travel_Point_cards_card{
+    box-sizing: border-box;
+    padding: 32px;
+    gap: 16px;
+    width: 204.5px;
+    height: 151px;
+    background: #FFFFFF;
+    border: 1px solid rgba(25, 24, 37, 0.1);
+    border-radius: 32px;
+
+
+}
+
+.Travel_Point_cards_card_titles{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 120%;
+    color: #FF5722;
+
+}
+.Travel_Point_cards_card_titles1{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 160%;
+    color: #191825;
+
+}
+
+.Travel_Point_cards_card_description{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    color: #191825;
+
+}
