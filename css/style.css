@@ -393,3 +393,81 @@
     color: #191825;
 
 }
+.main_content_box5{
+    padding: 64px 0px;
+    gap: 70px;
+
+
+
+
+}
+
+.key_features_box{
+    gap: 32px;
+    padding-bottom: 64px;
+}
+.key_features_titles{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 120%;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #F85E9F;
+    padding-bottom: 16px;
+}
+
+.key_features_titles2{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 120%;
+    color: #191825;
+    padding-bottom: 32px;
+}
+
+.key_features_description{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    color: rgba(25, 24, 37, 0.5);
+
+
+}
+.key_features_cards_card{
+    padding: 32px;
+    gap: 32px;
+    background: #FFFFFF;
+
+}
+
+#key_features_cards_card2{
+    border-radius: 32px;
+    border: 1px solid rgba(25, 24, 37, 0.1);
+    padding: 32px;
+    gap: 32px;
+
+}
+.key_features_cards_card_title{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 120%;
+    color: #191825;
+
+}
+.key_features_cards_card_description{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 160%;
+    color: rgba(25, 24, 37, 0.5);
+
+}
+
