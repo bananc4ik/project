@@ -471,3 +471,96 @@
 
 }
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.main__content_box7{
+    padding: 0px;
+    gap: 64px;
+
+}
+
+.main__content_box7_text{
+    gap: 32px;
+    padding-bottom: 64px;
+}
+.main_content_box7_title1{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 120%;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #F85E9F;
+
+
+
+}
+.main_content_box7_title2{
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 120%;
+    color: #191825;
+}
+
+
+.main__conten_box_buttons_email{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 32px;
+    gap: 16px;
+    background: #FFFFFF;
+    border-radius: 32px;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 120%;
+    text-align: center;
+    color: rgba(25, 24, 37, 0.75);
+    border-style: none;
+
+
+}
+
+.main__conten_box_buttons_subscribe{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 32px 64px;
+    gap: 16px;
+    background: #5D50C6;
+    border-radius: 32px;
+    font-family: 'Circular Std';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 120%;
+    text-align: center;
+    color: #FFFFFF;
+    border-style: none;
+
+
+
+
+
+
+}
+
